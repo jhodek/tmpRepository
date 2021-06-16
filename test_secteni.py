@@ -1,5 +1,6 @@
 # jesta jsem zapomel comment
 # ok to je dobre
+# fasfasf
 def secti(a, b):
     return a + b
 
