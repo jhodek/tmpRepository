@@ -1,4 +1,5 @@
 # jesta jsem zapomel comment
+# ok to je dobre
 def secti(a, b):
     return a + b
 
